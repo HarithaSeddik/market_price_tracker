@@ -9,7 +9,10 @@ for the selected market.
 green if it goes up. The text colour goes back to grey if the price is unchanged.
 
 # Technology Stack
-Flutter 
+[Flutter](https://flutter.dev/) 
+
+[Websockets](https://docs.flutter.dev/cookbook/networking/web-sockets/): Communication over web sockets 
+
 
 # Maintainers
 Haritha Seddik
